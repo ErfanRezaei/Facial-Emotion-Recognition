@@ -30,15 +30,15 @@ cd Facial-Emotion-Recognition
 
 **2. Create and Activate a Virtual Environment (Recommended):**
 
-# Create the environment
+### Create the environment
 
 python -m venv venv
 
-# Activate on Windows
+### Activate on Windows
 
 venv\Scripts\activate
 
-# Activate on Linux/macOS
+### Activate on Linux/macOS
 
 source venv/bin/activate
 
