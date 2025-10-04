@@ -32,7 +32,7 @@ To run this project, follow the steps below.
 **1. Clone the Repository:**
 First, clone the project from GitHub:
 
-git clone [https://github.com/YOUR_USERNAME/Facial-Emotion-Recognition.git](https://github.com/YOUR_USERNAME/Facial-Emotion-Recognition.git)
+git clone [https://github.com/ErfanRezaei/Facial-Emotion-Recognition.git](https://github.com/ErfanRezaei/Facial-Emotion-Recognition.git)
 cd Facial-Emotion-Recognition
 
 **2. Install Dependencies:**
