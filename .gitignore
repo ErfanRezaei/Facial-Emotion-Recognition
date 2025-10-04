@@ -19,7 +19,6 @@ ENV/
 *.zip
 *.rar
 *.h5
-data/
 
 .DS_Store
 Thumbs.db
