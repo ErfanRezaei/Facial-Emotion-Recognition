@@ -18,6 +18,13 @@ This project utilizes the [FER2013] dataset, originally published for a Kaggle c
 
 ---
 
+## Technologies Used
+
+- Python
+- TensorFlow / Keras
+- Pandas & NumPy
+- Matplotlib
+
 ## Setup and Installation
 
 To run this project, follow the steps below.
@@ -39,10 +46,3 @@ Note: It's highly recommended to use a virtual environment to keep project depen
 Download the fer2013.csv file from [FER2013](https://www.kaggle.com/datasets/nicolejyt/facialexpressionrecognition) and place it inside the data/ folder.
 
 Note: To run the project, open the Facial Emotion Reconition.ipynb in notebooks directory using Jupyter Notebook or Visual Studio Code and execute the cells in order.
-
-## Technologies Used
-
-- Python
-- TensorFlow / Keras
-- Pandas & NumPy
-- Matplotlib
