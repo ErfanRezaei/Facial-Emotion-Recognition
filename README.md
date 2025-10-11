@@ -31,14 +31,14 @@ To run this project, follow the steps below.
 
 **1. Clone the Repository:**
 First, clone the project from GitHub:
-
-git clone [https://github.com/ErfanRezaei/Facial-Emotion-Recognition.git](https://github.com/ErfanRezaei/Facial-Emotion-Recognition.git)
+```bash
+git clone https://github.com/ErfanRezaei/Facial-Emotion-Recognition.git
 cd Facial-Emotion-Recognition
-
+```
 **2. Install Dependencies:**
-
+```bash
 pip install -r requirements.txt
-
+```
 Note: It's highly recommended to use a virtual environment to keep project dependencies isolated.
 
 **3. Download the Dataset:**
