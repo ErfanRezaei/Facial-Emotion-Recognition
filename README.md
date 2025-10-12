@@ -9,7 +9,7 @@ This project implements a deep learning model to recognize and classify 7 basic 
 Here is an example of the model predicting emotions on images from the test set.
 
 <p align="center">
-  <img src="Sample.png" alt="Sample Predictions" width="600"/>
+  <img src="Sample.PNG" alt="Sample Predictions" width="600"/>
   <br>
   <em>Example of the model classifying different emotions.</em>
 </p>
