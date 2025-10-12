@@ -4,6 +4,18 @@ This project implements a deep learning model to recognize and classify 7 basic 
 
 ---
 
+## Sample Predictions
+
+Here is an example of the model predicting emotions on images from the test set.
+
+<p align="center">
+  <img src="Sample.png" alt="Sample Predictions" width="600"/>
+  <br>
+  <em>Example of the model classifying different emotions.</em>
+</p>
+
+---
+
 ## Dataset
 
 This project utilizes the [FER2013] dataset, originally published for a Kaggle competition. The dataset consists of over 35,000 grayscale images of faces, each 48x48 pixels in size. The images are labeled with one of the following 7 emotion categories:
