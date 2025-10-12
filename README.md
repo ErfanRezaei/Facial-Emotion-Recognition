@@ -6,7 +6,7 @@ This project implements a deep learning model to recognize and classify 7 basic 
 
 ## Sample Predictions
 
-Here is an example of the model predicting emotions on images from the test set.
+Here is an example of the model predicting emotions on images from the test set :
 
 ![Correct Prediction Sample](Sample.PNG)
 
